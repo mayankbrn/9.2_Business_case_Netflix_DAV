@@ -1,4 +1,4 @@
-# 9.2_Netflix_Data_analysis_visualisation
+# 9.2_Netflix_Data_Analysis_Visualisation
 Scaler DSML: Business Case: Netflix - Data Analytics & Visualisation
 
 # Netflix Data Exploration and Visualization 📊
